@@ -1,0 +1,16 @@
+1. Create a mini-database:
+-At first user input his name
+-Then he sees menu where he can:
+-- see his name
+-- reenter his name
+-- exit the program
+
+2. Emulate speed with inertia effect:
+-If user presses arrow up, speed goes up
+-If user presses arrow down, speed goes down and can be negative, which will represent reverse
+-In any moment, whether user presses arrows or not, inertia takes effect on speed - every tick speed gradually decreases.
+-There must be max speed in both sides - 100 units(km/h or mi/h).
+
+3. Emulate movement in 2D by pressing arrows:
+-Center of space by x,y is 0,0
+-Size of space where user is allowed to move is 500 in both negative and posisitive direction. 

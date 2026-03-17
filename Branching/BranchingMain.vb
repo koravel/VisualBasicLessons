@@ -1,7 +1,10 @@
 ﻿Module BranchingMain
 
     Sub Main()
+        Quiz.Start()
+    End Sub
 
+    Sub Examples()
         Console.WriteLine("Input a number from 1 to 4: ")
         Dim specialNumber As Integer = Console.ReadLine()
 
@@ -27,8 +30,5 @@
             Case Else
                 Console.WriteLine("Number is wrong")
         End Select
-
-
-
     End Sub
 End Module
