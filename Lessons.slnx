@@ -1,0 +1,10 @@
+<Solution>
+  <Project Path="Arrays/4. Arrays.vbproj" Id="ff5ffe3c-3d3a-426c-97f4-56347fdb8112" />
+  <Project Path="Branching/3. Branching.vbproj" Id="4ff34dd9-64e6-4bd5-aaec-1521257205a2" />
+  <Project Path="Loops/5. Loops.vbproj" Id="be8c5051-48a8-4ae4-974a-9442f5fb44a6" />
+  <Project Path="Math utils/Math utils.vbproj" Id="9cfd697c-82f8-45d4-8da6-6561a1f3b3b7" />
+  <Project Path="Random/Random.vbproj" Id="a4f1b431-fde2-4c42-9abc-8fd4e804b89d" />
+  <Project Path="String utils/String utils.vbproj" Id="b307284f-1c3c-47bf-8e64-4d31371f64cd" />
+  <Project Path="Types/2. Types.vbproj" Id="473193a6-a2e3-4520-96d9-7411ad9badd7" />
+  <Project Path="Variables/1. Variables.vbproj" Id="597b1337-8c97-4fa0-8cf6-4bc5173c9653" />
+</Solution>

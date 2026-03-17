@@ -1,0 +1,17 @@
+1. Create a program that will do arithmetic operations with two numbers based on sign:
+-Numbers must be Double and be inserted by user
+-Sign of operation also must br inserted by user
+-Result of operation is going to a terminal with usage of string interpolation ($"...")
+
+2. Create a program-quiz:
+-Prepare a set of questions and answers, 3 questions will be sufficient
+-Use them in branching to create quiz-like behaviour
+-Add mini score system: for each right ansqwer +1 point
+-Output to terminal score of the user as well as correctness of their answers for each question
+-Do not forget to use string interpolation
+
+3. Create date into text converter, i.e.: 10/10/26 -> october 10, 2026
+
+4. Create a program that will approve or reject loans based on:
+Salary, Creadit score, Debt
+Approve conditions are that salary is at minimum 30k, credit score is bigger than five hundred

@@ -1,0 +1,17 @@
+1. Create a program that will check login and password. 
+If password is right, print "Access granted. Have a good day, <username>", 
+otherwise print "Access denied."
+
+2. Create a program that will validate user input in such a manner:
+-Name length is < 20 chars
+-If not, output a warning
+
+3. Create a program that will validate user input in such a manner:
+-Name length is between 3 and 20 chars
+-User's pet is either cat or dog, anything else is rejected
+
+4. Create date into text converter, i.e.: 10/10/26 -> october 10, 2026
+
+5. Create a program that will approve or reject loans based on:
+Salary, Creadit score, Debt
+Approve conditions are that salary is at minimum 30k, credit score is bigger than five hundred
