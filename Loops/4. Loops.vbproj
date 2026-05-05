@@ -69,7 +69,7 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="DoUntilExamples.vb" />
+    <Compile Include="DoExamples.vb" />
     <Compile Include="ForEachExamples.vb" />
     <Compile Include="ForExamples.vb" />
     <Compile Include="LoopsMain.vb" />

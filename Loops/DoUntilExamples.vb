@@ -1,3 +1,0 @@
-﻿Module DoUntilExamples
-
-End Module

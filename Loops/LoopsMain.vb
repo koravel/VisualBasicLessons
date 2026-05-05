@@ -1,8 +1,7 @@
 ﻿Module LoopsMain
 
     Sub Main()
-        WhileExamples.ExitContinue()
-
+        DoExamples.Iteration_DoWhile_Variations()
     End Sub
 
 End Module
