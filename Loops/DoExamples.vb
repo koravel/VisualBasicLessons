@@ -5,13 +5,6 @@
 
         Do
             Console.WriteLine($"i = {i}")
-
-            'Dim userKey = Console.ReadKey()
-            'Dim keyPressed = userKey.Key.ToString()
-
-            'If keyPressed = "Escape" Then
-            '    Exit Do
-            'End If
             i += 1
         Loop
     End Sub
@@ -27,7 +20,6 @@
 
     Sub Iteration_DoWhile()
         Dim i As Integer = 0
-
         Do
             Console.WriteLine($"i = {i}")
             i += 1
@@ -39,7 +31,6 @@
 
         Console.WriteLine($"Pre-condition:")
         Do While i < 100
-
             Console.WriteLine($"i = {i}")
             i += 1
         Loop

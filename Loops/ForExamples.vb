@@ -18,7 +18,7 @@
     End Sub
 
     Sub Iteration_Step_Double()
-        For i As Integer = 0 To 100 Step 0.25
+        For i As Double = 0 To 100 Step 0.25
             Console.WriteLine($"i = {i}")
         Next
     End Sub
