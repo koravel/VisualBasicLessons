@@ -6,7 +6,7 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A4F1B431-FDE2-4C42-9ABC-8FD4E804B89D}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <StartupObject>Random.Module1</StartupObject>
+    <StartupObject>Random.RandomMain</StartupObject>
     <RootNamespace>Random</RootNamespace>
     <AssemblyName>Random</AssemblyName>
     <FileAlignment>512</FileAlignment>
@@ -69,7 +69,8 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Module1.vb" />
+    <Compile Include="RandomExamples.vb" />
+    <Compile Include="RandomMain.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
